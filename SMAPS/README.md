@@ -8,12 +8,8 @@ Project 2 Description:  A series of web apps/Story Maps (etc) related to GIS Day
 
 Project 1 Updates:
 
-• Partial completion of Map Journal Template for Rugby World Cup
-• Partial completion of Trophy Tour story map for Rugby World Cup
-• Team meeting regularly to review applications and maps status
+• Rugby World Cup – Map Journal completed with Story Maps and match-related content.
 
 Project 2 Updates:
 
-• Acquired GIS Day data
-• Assessing templates for GIS Day web application
-• Analyzing and massaging GIS Day data as needed
+• Geomentoring through GIS Day – finalizing Briefing Book application with web maps, images, videos and related content.
