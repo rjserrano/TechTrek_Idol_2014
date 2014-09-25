@@ -8,4 +8,4 @@ Project 1 Updates:
 
 • Rugby World Cup – Map Journal completed with Story Maps and match-related content.
 
-! [alt tag] (http://www.rugbydump.com/media/posts/rwc2015-gilbert-ball-bot.jpg)
+![alt tag](http://www.rugbydump.com/media/posts/rwc2015-gilbert-ball-bot.jpg)
