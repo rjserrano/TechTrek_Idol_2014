@@ -2,7 +2,7 @@
 
 ----
 
-### [Click here to see it live!](http://172.31.17.16/BriefingBook_SMAPS/) – (Once your browser opens click on the Briefing Book; please change your resolution to 1366x768 and view in either Chrome or Firefox)
+### [Click here to see it live!](http://172.31.17.16/BriefingBook_SMAPS/) – (Please change your resolution to 1366x768 and view in either Chrome or Firefox; after clicking on the link, click on the Briefing Book to start viewing the application)
 
 ![alt tag] (http://esrica-prairies.maps.arcgis.com/sharing/rest/content/items/ad3ce65db38744e0b16d07743331b7ee/data)
 
