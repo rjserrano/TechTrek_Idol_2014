@@ -44,7 +44,7 @@ From learning about the venues, or picking your favorite team, this journal prov
 
 ![alt tag] (http://esrica-prairies.maps.arcgis.com/sharing/rest/content/items/55c0b84457584f44b4e3b944506ffae9/data)
 
-* If you add images into the side panel of the Story Map Journal and decide to delete them the change to a different image, the html code can become corrupted with redundant image container tags and in turn url links from this section down stop working and entire sections blacken out:
+* If you add images into the side panel of the Story Map Journal and decide to delete them to change to a different image, the html code can become corrupted with redundant image container tags and in turn url links from this section down stop working and entire sections blacken out:
 
 ![alt tag] (http://esrica-prairies.maps.arcgis.com/sharing/rest/content/items/862e08d69a96477dad264078124223ce/data)
 
@@ -56,4 +56,4 @@ From learning about the venues, or picking your favorite team, this journal prov
 ### Prairies Team Members
 
 
-**Randi Lees, Aine McAlister, Shane Long, Michelle Shields, Robert Serrano**
+**Aine McAlister, Randi Lees, Shane Long, Michelle Shields, Robert Serrano**

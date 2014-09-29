@@ -38,7 +38,7 @@ We should also mention our app includes Spider-Maps – these are cool, interactiv
 
 * Use either Fire Fox or Chrome as your browser
 * Set your screen resolution to: 1366x768
-* Ensure you on logged onto the Esri network as this Briefing Book is hosted on an internal VM
+* Ensure you are logged onto the Esri network as this Briefing Book is hosted on an internal VM
 * Turn off ‘Use hardware acceleration when available’ in your Browser settings
 * You may need to install Adobe Flash to view the videos
  
