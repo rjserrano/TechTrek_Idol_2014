@@ -18,9 +18,9 @@ We welcome you to flip through the pages, interact with the mapping applications
 
 ##### Why is our application cool?
 
-Our application is cool because it’s out of the box and easy to use.  The Briefing Book template provides the necessary narrative for a story and showcases a variety of different interactive ArcGIS web maps & apps.
+Our application is cool because it’s out of the box and easy to use.  With the Briefing Book we were able to compile our story, provide the necessary narrative, and then beef it up with a variety of different ArcGIS web maps & apps that are interactive.
 
-We should also mention our app includes Spider-Maps – these are cool, interactive web maps that are visually attractive.
+One of the web maps are Spider-Maps – these are cool, interactive web maps that are visually attractive.
 
 ![alt] (http://esrica-prairies.maps.arcgis.com/sharing/rest/content/items/436620dd93d04b39aea2bda6440cc332/data)
 
